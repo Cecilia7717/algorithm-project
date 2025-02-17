@@ -1,0 +1,277 @@
+Starting iteration 1...
+39
+0.975
+40
+1.0
+39
+0.975
+39
+0.975
+40
+1.0
+40
+1.0
+39
+0.975
+38
+0.95
+40
+1.0
+39
+0.975
+Iteration 1 completed in 1 seconds.
+Starting iteration 2...
+39
+0.975
+40
+1.0
+39
+0.975
+39
+0.975
+39
+0.975
+39
+0.975
+40
+1.0
+39
+0.975
+39
+0.975
+39
+0.975
+Iteration 2 completed in 0 seconds.
+Starting iteration 3...
+40
+1.0
+38
+0.95
+40
+1.0
+39
+0.975
+40
+1.0
+39
+0.975
+40
+1.0
+39
+0.975
+39
+0.975
+39
+0.975
+Iteration 3 completed in 1 seconds.
+Starting iteration 4...
+40
+1.0
+40
+1.0
+40
+1.0
+40
+1.0
+37
+0.925
+40
+1.0
+38
+0.95
+40
+1.0
+40
+1.0
+39
+0.975
+Iteration 4 completed in 0 seconds.
+Starting iteration 5...
+40
+1.0
+39
+0.975
+39
+0.975
+39
+0.975
+39
+0.975
+39
+0.975
+40
+1.0
+40
+1.0
+40
+1.0
+40
+1.0
+Iteration 5 completed in 3 seconds.
+Starting iteration 6...
+40
+1.0
+39
+0.975
+38
+0.95
+39
+0.975
+40
+1.0
+40
+1.0
+40
+1.0
+40
+1.0
+39
+0.975
+39
+0.975
+Iteration 6 completed in 17 seconds.
+Starting iteration 7...
+Starting iteration 1...
+39
+0.975
+40
+1.0
+39
+0.975
+39
+0.975
+40
+1.0
+40
+1.0
+39
+0.975
+38
+0.95
+40
+1.0
+39
+0.975
+Iteration 1 completed in 0 seconds.
+Starting iteration 2...
+39
+0.975
+40
+1.0
+39
+0.975
+39
+0.975
+39
+0.975
+39
+0.975
+40
+1.0
+39
+0.975
+39
+0.975
+39
+0.975
+Iteration 2 completed in 0 seconds.
+Starting iteration 3...
+40
+1.0
+38
+0.95
+40
+1.0
+39
+0.975
+40
+1.0
+39
+0.975
+40
+1.0
+39
+0.975
+39
+0.975
+39
+0.975
+Iteration 3 completed in 1 seconds.
+Starting iteration 4...
+40
+1.0
+40
+1.0
+40
+1.0
+40
+1.0
+37
+0.925
+40
+1.0
+38
+0.95
+40
+1.0
+40
+1.0
+39
+0.975
+Iteration 4 completed in 0 seconds.
+Starting iteration 5...
+40
+1.0
+39
+0.975
+39
+0.975
+39
+0.975
+39
+0.975
+39
+0.975
+40
+1.0
+40
+1.0
+40
+1.0
+40
+1.0
+Iteration 5 completed in 2 seconds.
+Starting iteration 6...
+40
+1.0
+39
+0.975
+38
+0.95
+39
+0.975
+40
+1.0
+40
+1.0
+40
+1.0
+40
+1.0
+39
+0.975
+39
+0.975
+Iteration 6 completed in 11 seconds.
+Starting iteration 7...
+Iteration 7 completed in 0 seconds.
+Starting iteration 8...
+Iteration 8 completed in 0 seconds.
+Starting iteration 9...
+Iteration 9 completed in 1 seconds.
+Starting iteration 10...
+Iteration 10 completed in 0 seconds.
+Starting iteration 11...
+Iteration 11 completed in 0 seconds.
+Starting iteration 12...
+Iteration 12 completed in 0 seconds.
